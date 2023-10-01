@@ -1,3 +1,3 @@
 # Maps Tools
 
-- `migrate-lists` - migrate lists from one account to another.
+- `migrate-saved-places` - extract saved places from Google Takeout to a file with every URL on a new line.
